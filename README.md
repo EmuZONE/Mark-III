@@ -10,7 +10,7 @@ Obwohl das Master System dem NES in manchen Bereichen technisch überlegen war, 
 In Europa wurde das Master System von Sega in vielen verschiedenen Ländern vermarktet, darunter sogar einige, in denen Nintendo keine Konsolen verkaufte. Europäer gewährten dem SMS breite Third-Party-Unterstützung, so dass es das NES in diesem Markt übertraf. Nintendo war gezwungen, Lizenzen für einige beliebte SMS-Titel in diesem Markt zu erwerben. Bis 1994 war das Master System die Konsole in Europa mit der größten Installationsbasis von 6,25 Mio Geräten. Die offizielle Unterstützung wurde 1996 eingestellt zugunsten des bereits in der Produktion befindlichen Sega Saturn. Das letzte europäische Spiel „Les Schtroumpfs Autour du Monde“ wurde nur noch in sehr geringen Mengen hergestellt, weshalb es unter Sammlern hoch gehandelt wird.
 
 
-<b>Technische Daten</b>
+<h3>Technische Daten</h3>
 
 <ul><li>CPU: mit 3,55 (PAL/SECAM) bzw. 3,58 (NTSC) <a href="/wiki/Hertz_(Einheit)" title="Hertz (Einheit)">MHz</a> getakteter <a href="/wiki/Zilog_Z80" title="Zilog Z80">Z80</a> (8-Bit-CPU)</li>
 <li>Grafik: ein vom <a href="/wiki/Texas_Instruments" title="Texas Instruments">Texas Instruments</a> <a href="/w/index.php?title=TMS9918&amp;action=edit&amp;redlink=1" class="new" title="TMS9918 (Seite nicht vorhanden)">TMS9918</a> abgeleiteter VDP (Video Display Processor)</li>
