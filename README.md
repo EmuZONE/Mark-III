@@ -1,7 +1,7 @@
 ![Screenshot](Docs/Sega-master-system-logo.png)
 
 
-<h1>Geschichte</h>
+<h1>Geschichte</h1>
 
 Als Nachfolger des SG-1000 Mark I und des SG-1000 Mark II wurde im Oktober 1985 das SG-1000 Mark III in Japan vorgestellt. Eine Verbesserung zu seinen Vorgängern stellten die größere Farbpalette, besseres Audio über die separat erhältliche FM-Unit und mehr internen Arbeitsspeicher dar. Im Juni 1986 wurde das System in neuem Design unter dem neuen Namen Sega Master System auch in den USA veröffentlicht, ein Jahr nach dem USA-Start des Nintendo Entertainment Systems (NES). Anfänglich wurden die Spiele auf preisgünstigen Sega Cards ausgeliefert, welche aufgrund der Limitierung auf 32 KBit zugunsten von Cartridges (ab 128 KBit) aufgegeben wurden. Die Konsole kostete zum Verkaufsstart 200 US$. Anschließend wurde sie in anderen Märkten veröffentlicht, in Europa erschien sie 1987 unter ihrem neuen Namen.
 
