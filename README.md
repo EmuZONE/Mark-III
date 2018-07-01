@@ -1,3 +1,3 @@
-![alt text](https://github.com/EmuZONE/Mark-III/Docs/Sega-master-system-logo.png)
+![Screenshot](Docs/Sega-master-system-logo.png)
 
 
