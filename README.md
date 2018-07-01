@@ -12,7 +12,7 @@ In Europa wurde das Master System von Sega in vielen verschiedenen Ländern verm
 
 <h3>Technische Daten</h3>
 
-<ul><li>CPU: mit 3,55 (PAL/SECAM) bzw. 3,58 (NTSC) <a href="/wiki/Hertz_(Einheit)" title="Hertz (Einheit)">MHz</a> getakteter <a href="/wiki/Zilog_Z80" title="Zilog Z80">Z80</a> (8-Bit-CPU)</li>
+<ul><li><font-size=14>CPU: mit 3,55 (PAL/SECAM) bzw. 3,58 (NTSC) <a href="/wiki/Hertz_(Einheit)" title="Hertz (Einheit)">MHz</a> getakteter <a href="/wiki/Zilog_Z80" title="Zilog Z80">Z80</a> (8-Bit-CPU)</li>
 <li>Grafik: ein vom <a href="/wiki/Texas_Instruments" title="Texas Instruments">Texas Instruments</a> <a href="/w/index.php?title=TMS9918&amp;action=edit&amp;redlink=1" class="new" title="TMS9918 (Seite nicht vorhanden)">TMS9918</a> abgeleiteter VDP (Video Display Processor)</li>
 <li>128 KBit ROM</li>
 <li>64 KBit (8 KByte) RAM (einige Cartridges erweitern diesen)</li>
@@ -30,4 +30,4 @@ In Europa wurde das Master System von Sega in vielen verschiedenen Ländern verm
 <li>Videoausgang (nicht beim SMS2), Antennenanschluss</li>
 <li>Pause-Schalter an der Konsole, Reset-Schalter fehlt am SMS2</li>
 <li>Modul-Slot, Karten-Slot/fehlt am SMS2</li>
-<li>BIOS prüft Region und Checksumme<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li></ul>
+<li>BIOS prüft Region und Checksumme<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></font></li></ul>
